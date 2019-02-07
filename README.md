@@ -1,4 +1,4 @@
-# #OkoaLife
+# OkoaLife
 #### This application is targeted to improve the healthcare sector, 2020
 #### By **Collins kipkemoi**
 ## Description
